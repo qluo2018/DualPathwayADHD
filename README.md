@@ -4,7 +4,7 @@ Key words: the ABCD cohort; family relatedness; multi-level block permutation; w
 
 Data and Code of paper:
 
-Chun Shen+, Qiang Luo+,*, et al. Barbara J. Sahakian. Neural correlates of the dual pathway model for attention-deficit/hyperactivity disorder in adolescents. American Journal of Psychiatry, 2020. 
+Chun Shen, et al. Neural correlates of the dual pathway model for attention-deficit/hyperactivity disorder in adolescents. American Journal of Psychiatry, 2020. 
 
 NOTE
 
