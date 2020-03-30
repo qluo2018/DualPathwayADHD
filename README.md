@@ -37,23 +37,18 @@ Step 3:  Analysis of ADHD200. (S3_Analysis_ADHD200.m)
 
 Contact:
 
-Qiang Luo, PhD, Visiting Fellow at the Clare Hall, Cambridge
-
-Associate Principal Investigator
-
-Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)
-Fudan University
-
-Email: mrqiangluo@gmail.com; qluo@fudan.edu.cn
-
-Office Phone: 86-21-65648454
-
-https://sites.google.com/site/qluochina/
-
-http://homepage.fudan.edu.cn/qiangluo/
+    Qiang Luo, PhD, Visiting Fellow at the Clare Hall, Cambridge
+    Associate Principal Investigator
+    Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)
+    Fudan University
+    Email: mrqiangluo@gmail.com; qluo@fudan.edu.cn
+    Office Phone: 86-21-65648454
+    https://sites.google.com/site/qluochina/
+    http://homepage.fudan.edu.cn/qiangluo/
 
 Team Members:
-Chun Shen, MSc, cshen17@fudan.edu.cn
+
+    Chun Shen, MSc, cshen17@fudan.edu.cn
 
 The current version was relesed on 28 Mar 2020.
 
